@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @victorTobi
-- 👀 I’m interested in you 🤤
+- 👀 I’m interested in you
 - 🌱 I’m currently learning a lot
-- 💞️ I’m looking to collaborate on deez nuts
+- 💞️ I’m looking to collaborate on django projects
 - 📫 How to reach me victortobi157@gmail.com
 
 <!---
